@@ -1,4 +1,4 @@
-# Online-Poll-Application
+# Online Poll Web App
 A customized online poll web application that stores user feedback according to survey answered. This was a side project given to me by a client in September 2018.
 
 # How it works
