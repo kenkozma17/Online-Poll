@@ -1,5 +1,5 @@
 # Online-Poll-Application
-A simple online poll application that stores user feedback according to survey answered. 
+A customized online poll web application that stores user feedback according to survey answered. This was a side project given to me by a client in September 2018.
 
 # How it works
 The user may select 5 surveys/polls that will guess something about them after they answer the survey or poll. This resembles the type of games or surveys that are on facebook.
